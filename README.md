@@ -1,5 +1,6 @@
 # 3DLidar-Tank - Autonomous vehicle with 3D Lidar for mapping enclosed spaces
-Computer Science Thesis project
+Computer Science Thesis project at West Pomeranian University of Technology (ZUT) in Szczecin
+
 Full title: "Three-dimensional mapping of enclosed spaces using an autonomous vehicle planning real-time traffic"
 
 # About
