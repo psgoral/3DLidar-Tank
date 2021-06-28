@@ -47,7 +47,7 @@ ser = serial.Serial(
     timeout=0
 )
 HOST = '192.168.0.110'    # The remote host
-PORT = 2137    
+PORT = 5005    
 
 
 
@@ -114,9 +114,9 @@ def serial_read():
     # values = bytearray([0x5A, 0x04, 0x02, 0x60])
     while True:
         respond = ser.read(1).hex()
-        print(str(respond))
+        # print(str(respond))
         if len(str(respond)) < 2:
-            print('gowno')
+            print('blad')
             # ser.write(values)
             ser.write(b'\x5A\x04\x01\x5F')
 
