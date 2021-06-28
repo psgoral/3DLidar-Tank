@@ -3,11 +3,15 @@ Computer Science Thesis project at West Pomeranian University of Technology (ZUT
 
 Full title: "Three-dimensional mapping of enclosed spaces using an autonomous vehicle planning real-time traffic"
 
+<img src="https://user-images.githubusercontent.com/36134475/123587944-4fbaee00-d7e7-11eb-9737-55d6f4bddc63.jpg" width="30%" height="30%"/>
+
 # About
 The aim of this engineering work is to build an autonomous vehicle which thanks to a distance sensor or lidar can scan rooms or objects. In addition, one of the points of the project is to write an application that allows you to manage and view the vehicle in real time. The planned cost of such a solution is to be reduced at least several times by using readily available components, independent design and printing of parts and writing your own software. The work also allows to develop skills in computer science, robotics and electronics. 
 
-![volvo_przod](https://user-images.githubusercontent.com/36134475/121767568-32382400-cb59-11eb-997d-c1c551b1079a.png | width=100)
-![vehicle](https://user-images.githubusercontent.com/36134475/123587944-4fbaee00-d7e7-11eb-9737-55d6f4bddc63.jpg | width=100)
+<!-- ![volvo_przod](https://user-images.githubusercontent.com/36134475/121767568-32382400-cb59-11eb-997d-c1c551b1079a.png&s=100) -->
+<img src="https://user-images.githubusercontent.com/36134475/121767568-32382400-cb59-11eb-997d-c1c551b1079a.png" width="50%" height="50%"/>
+
+<!-- ![vehicle](https://user-images.githubusercontent.com/36134475/123587944-4fbaee00-d7e7-11eb-9737-55d6f4bddc63.jpg) -->
 
 
 # Technologies
@@ -25,12 +29,7 @@ Desktop application:
 - Lidar 360 RPLidar A2M8 
 - 28BYJ-48 Stepper motors  
 
-# STLs files
-
-# Full diploma (in polish)
-
 
 # Links
-Project website: https://goorski.pl/lidar
+Project website: https://goorski.pl/
 
-Full diploma (in polish): https://goorski.pl/inz.pdf
